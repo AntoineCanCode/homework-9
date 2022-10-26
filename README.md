@@ -1,8 +1,8 @@
 
-  # Professional README generator
+  # Professional README Generator
   ![License Badge](https://img.shields.io/badge/license-MIT-red)
   ## Description
-   Professional README generator created with node
+   Professional README generator made with node
   ## Table of Contents
   * [Repo](#repo) 
   * [Installation](#installation)
